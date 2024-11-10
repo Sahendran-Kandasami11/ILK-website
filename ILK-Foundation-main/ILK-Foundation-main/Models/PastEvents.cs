@@ -1,6 +1,9 @@
 ﻿using Google.Cloud.Firestore;
 using Microsoft.AspNetCore.Http;
+using System.Text.Json.Serialization;
 using System;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
 namespace test_ngo.Models
 {
@@ -8,6 +11,7 @@ namespace test_ngo.Models
     public class PastEvent
     {
         [FirestoreProperty]  // Maps this property to Firestore
+        [Key]
         public string EventId { get; set; }  // Fixed the property name to match the controller
 
         [FirestoreProperty]  // Maps this property to Firestore
@@ -23,6 +27,8 @@ namespace test_ngo.Models
         public string ImageUrl { get; set; }  // Store the image URL instead of raw data
 
         // This property will not be stored in Firestore, as we don't need to map it
+        [NotMapped]
+        [JsonIgnore]
         public IFormFile ImageFile { get; set; }  // This is not mapped to Firestore
     }
 }

@@ -17,195 +17,199 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = test_ngo
 build_property.RootNamespace = test_ngo
-build_property.ProjectDir = C:\Users\User\OneDrive\Desktop\ILK-Foundation-main\ILK-Foundation-main\
+build_property.ProjectDir = C:\Users\travi\source\repos\ILK-website\ILK-Foundation-main\ILK-Foundation-main\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\OneDrive\Desktop\ILK-Foundation-main\ILK-Foundation-main
+build_property.MSBuildProjectDirectory = C:\Users\travi\source\repos\ILK-website\ILK-Foundation-main\ILK-Foundation-main
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Create.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Delete.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Details.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Donate.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Donate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xEb25hdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/DonatePopup.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/DonatePopup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xEb25hdGVQb3B1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Edit.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Index.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Donates/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Create.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Delete.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Details.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Edit.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Index.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Events/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Home/Index.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Home/Privacy.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Create.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzdEV2ZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Delete.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzdEV2ZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Details.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzdEV2ZW50c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/DisplayPastEvents.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/DisplayPastEvents.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzdEV2ZW50c1xEaXNwbGF5UGFzdEV2ZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Edit.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzdEV2ZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Index.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/PastEvents/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzdEV2ZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/Error.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/_Layout.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Create.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Delete.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Details.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Edit.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Index.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Testimonials/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Application.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Application.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xBcHBsaWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/AwaitApproval.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/AwaitApproval.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xBd2FpdEFwcHJvdmFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Create.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Delete.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Details.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Edit.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Index.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Volunteer.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/Volunteer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xWb2x1bnRlZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/VolunteerApplications.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/Volunteers/VolunteerApplications.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyc1xWb2x1bnRlZXJBcHBsaWNhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/_ViewImports.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Desktop/ILK-Foundation-main/ILK-Foundation-main/Views/_ViewStart.cshtml]
+[C:/Users/travi/source/repos/ILK-website/ILK-Foundation-main/ILK-Foundation-main/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

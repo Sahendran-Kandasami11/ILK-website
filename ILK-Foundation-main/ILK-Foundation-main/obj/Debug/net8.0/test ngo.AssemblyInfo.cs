@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test ngo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f02a596a2736ba777f2645cfecf1d3ae1365abee")]
 [assembly: System.Reflection.AssemblyProductAttribute("test ngo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test ngo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

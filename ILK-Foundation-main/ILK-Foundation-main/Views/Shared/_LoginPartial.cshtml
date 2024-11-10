@@ -1,28 +1,25 @@
-﻿@using Microsoft.AspNetCore.Identity
-@inject SignInManager<IdentityUser> SignInManager
-@inject UserManager<IdentityUser> UserManager
+﻿@using Microsoft.AspNetCore.Mvc
+@inject IHttpContextAccessor HttpContextAccessor
 
 <ul class="navbar-nav">
-@if (SignInManager.IsSignedIn(User))
-{
-    <li class="nav-item">
-        <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
-    </li>
-    <li class="nav-item">
-        <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
-            <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
-        </form>
-    </li>
-}
-else
-{
-    /*
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
-    </li>
-    */
-    <li class="nav-item">
-        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
-    </li>
-}
+    @if (!string.IsNullOrEmpty(HttpContextAccessor.HttpContext.Session.GetString("currentUser")))
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark">Hello @HttpContextAccessor.HttpContext.Session.GetString("currentUser")!</a>
+        </li>
+        <li class="nav-item">
+            <form method="post" action="@Url.Action("LogOut", "Auth")" class="form-inline">
+                <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="@Url.Action("Login", "Auth")">Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="@Url.Action("Register", "Auth")">Register</a>
+        </li>
+    }
 </ul>

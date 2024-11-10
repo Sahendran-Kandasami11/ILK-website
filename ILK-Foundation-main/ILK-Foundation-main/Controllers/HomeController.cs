@@ -19,8 +19,10 @@ namespace test_ngo.Controllers
         {
             _logger = logger;
 
+           
             // Load credentials from the JSON file
-            var credential = GoogleCredential.FromFile("C:\\Users\\User\\OneDrive\\Desktop\\ILK-Foundation-main\\ilkfoundation-firebase-adminsdk-675ei-d599e5fb95.json");
+            var credential = GoogleCredential.FromFile("C:\\Users\\travi\\source\\repos\\ILK-website\\ILK-Foundation-main\\ILK-Foundation-main\\ilkfoundation-firebase-adminsdk-675ei-d599e5fb95.json");
+
 
             // Convert to ChannelCredentials
             var channelCredentials = credential.ToChannelCredentials();
