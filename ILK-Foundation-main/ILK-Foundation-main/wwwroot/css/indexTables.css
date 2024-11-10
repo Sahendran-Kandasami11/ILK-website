@@ -1,0 +1,22 @@
+﻿body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand .logo {
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 1.5rem;
+}
+
+.table img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.btn-create {
+    background-color: #28a745;
+    color: white;
+}
+
+    .btn-create:hover {
+        background-color: #218838;
+    }

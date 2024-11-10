@@ -1,0 +1,19 @@
+﻿.card-fixed-height {
+    height: 400px; /* Set a fixed height */
+
+    transition: height 0.3s ease-in-out; /* Smooth transition */
+}
+
+.card-expanded {
+    height: auto; /* Allow card to expand */
+}
+
+.testimonial-description {
+    max-height: 65px; /* Limit the height of the description */
+    overflow: hidden; /* Hide overflow content */
+    transition: max-height 0.3s ease-in-out; /* Smooth transition */
+}
+
+.expanded-description {
+    max-height: none; /* Remove the height limit */
+}

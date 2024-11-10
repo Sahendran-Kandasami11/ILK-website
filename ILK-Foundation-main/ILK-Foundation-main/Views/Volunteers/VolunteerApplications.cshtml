@@ -1,0 +1,38 @@
+﻿@model IEnumerable<test_ngo.Models.Volunteer>
+
+@{
+    ViewData["Title"] = "Volunteer Applications";
+}
+
+<h1>Volunteer Applications</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Volunteer Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var volunteer in Model)
+        {
+            <tr>
+                <td>@volunteer.VolunteerName @volunteer.VolunteerSurname</td>
+                <td>@volunteer.VolunteerEmail</td>
+                <td>@volunteer.PhoneNumber</td>
+                <td>@volunteer.Status</td>
+                <td>
+                    <form asp-action="Approve" asp-route-id="@volunteer.VolunteerID" method="post">
+                        <button type="submit" class="btn btn-success">Approve</button>
+                    </form>
+                    <form asp-action="Decline" asp-route-id="@volunteer.VolunteerID" method="post">
+                        <button type="submit" class="btn btn-danger">Decline</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
